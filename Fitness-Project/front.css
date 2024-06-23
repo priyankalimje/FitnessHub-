@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url("Images/front_page.jpeg");
+    filter: blur(none);
+    background-size: cover;
+}
+.centerd-text h1{
+    font-size: 300px;
+    font-style: italic;
+    color: cornsilk;
+    text-align: center;
+    margin-top: 180px;
+}
